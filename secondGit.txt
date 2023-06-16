@@ -1,1 +1,2 @@
-This is secondGit.txt
+This is secondGit.txt.
+Added a new line to this file.

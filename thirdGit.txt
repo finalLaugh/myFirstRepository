@@ -1,1 +1,2 @@
-This is thirdGit.txt
+This is thirdGit.txt.
+Added a new line to this file.
