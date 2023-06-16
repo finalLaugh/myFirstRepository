@@ -1,2 +1,3 @@
 This is thirdGit.txt.
 Added a new line to this file.
+Added a third line directly in GitHub.
